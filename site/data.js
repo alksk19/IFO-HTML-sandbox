@@ -1,7 +1,7 @@
 // Automatisch erzeugt von R/build_data.R — nicht von Hand bearbeiten.
 // Erneuern mit: Rscript R/build_data.R
 window.SITE_DATA = {
-  "generated": "2026-11-27T17:36:07+0000",
+  "generated": "2026-11-28T16:20:00+0000",
   "stand": "2026-10",
   "standImportklima": "2026-09",
   "datasets": {
